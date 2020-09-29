@@ -1,9 +1,0 @@
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\bin\Debug\Aint.exe.config
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\bin\Debug\Aint.exe
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\bin\Debug\Aint.pdb
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\obj\Debug\Aint.csprojResolveAssemblyReference.cache
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\obj\Debug\Aint.Form1.resources
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\obj\Debug\Aint.Properties.Resources.resources
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\obj\Debug\Aint.csproj.GenerateResource.Cache
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\obj\Debug\Aint.exe
-c:\users\жопа\documents\visual studio 2013\Projects\Aint\Aint\obj\Debug\Aint.pdb
